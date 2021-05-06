@@ -1,28 +1,30 @@
 ### Hi there 👋
 
-### Tech Stack, sorted
-![](https://img.shields.io/badge/-Scala-DC322F?logo=Scala&logoColor=fff) 
-![](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=000) 
-![](https://img.shields.io/badge/-Spring-6DB33F?logo=Spring&logoColor=fff) 
-![](https://img.shields.io/badge/-Vue.js-4FC08D?logo=Vue.js&logoColor=fff) 
-![](https://img.shields.io/badge/-React-61DAFB?logo=React&logoColor=fff) 
-![](https://img.shields.io/badge/-Kotlin-0095D5?logo=Kotlin&logoColor=fff) 
-![](https://img.shields.io/badge/-Docker-2496ED?logo=Docker&logoColor=fff) 
-![](https://img.shields.io/badge/-TypeScript-007ACC?logo=TypeScript&logoColor=fff) 
-![](https://img.shields.io/badge/-Java-007396?logo=Java&logoColor=fff)
-![](https://img.shields.io/badge/-PostgreSQL-336791?logo=PostgreSQL&logoColor=fff) 
+My name is Karin-Aleksandra Monoid (no, seriously).
+I'm Senior Software Engineer with background in various programming languages and currently I'm specializing in Kotlin and advocating for functional programming (the good parts!). Also I probably tried your favorite backend language on frontend (Scala.js and Kotlin/JS).
 
-<!--
-**paranoidmonoid/paranoidmonoid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### My Activities
 
-Here are some ideas to get you started:
+#### Public Talks
+|  Date  |                        Title                                   |Event/Organization|Language|Link |
+|--------|----------------------------------------------------------------|------------------|--------|-----|
+|Dec 2018|	"Fun" as in "funeral": full-stack development using Kotlin/JS |	KUG SPb          | RU     ||
+|Jan 2020|	"Fun" as in "funeral": full-stack development using Kotlin/JS |	Berlin	         | EN     ||
+|Feb 2020|	Hands-on Arrow                                                |	Nuremberg/Online | EN     |[YT](https://youtu.be/tkl9EaUMfm8)|
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Posts
+
+My tech blog: https://paranoidmonoid.github.io/articles/
+
+* [How Kotlin type system betrays us?](https://paranoidmonoid.github.io/articles/Chasing%20the%20bug/EitherVsNull)
+* [Hands-on Arrow](https://paranoidmonoid.github.io/articles/Kotlin%20and%20friends/Hands-on%20Arrow)
+* [Migrating your tests to Kotlin](https://paranoidmonoid.github.io/articles/Kotlin%20and%20friends/Migrating%20your%20tests%20to%20Kotlin)
+
+### Links
+
+#### Twitter
+* RU (various content): (@vanillacoder)[https://twitter.com/paranoidmonoid/]
+* EN (mostly tech): (@paranoidmonoid)[https://twitter.com/paranoidmonoid/]
+
+#### Slides
+* (Speakerdeck)[https://speakerdeck.com/paranoidmonoid]
