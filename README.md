@@ -23,8 +23,8 @@ My tech blog: https://paranoidmonoid.github.io/articles/
 ### Links
 
 #### Twitter
-* RU (various content): (@vanillacoder)[https://twitter.com/paranoidmonoid/]
-* EN (mostly tech): (@paranoidmonoid)[https://twitter.com/paranoidmonoid/]
+* RU (various content): [@vanillacoder](https://twitter.com/paranoidmonoid/)
+* EN (mostly tech): [@paranoidmonoid](https://twitter.com/paranoidmonoid/)
 
 #### Slides
-* (Speakerdeck)[https://speakerdeck.com/paranoidmonoid]
+* [Speakerdeck](https://speakerdeck.com/paranoidmonoid)
