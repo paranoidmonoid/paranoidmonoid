@@ -8,10 +8,12 @@ I'm a Senior Software Engineer with background in various programming languages 
 #### Public Talks
 |  Date  |                        Title                                   |Event/Organization|Language|Link |
 |--------|----------------------------------------------------------------|------------------|--------|-----|
-|Dec 2018|	"Fun" as in "funeral": full-stack development using Kotlin/JS |	KUG SPb          | RU     ||
-|Jan 2020|	"Fun" as in "funeral": full-stack development using Kotlin/JS |	Berlin	         | EN     ||
-|Feb 2021|	Hands-on Arrow                                                |	Nuremberg/Online | EN     |[YT](https://youtu.be/tkl9EaUMfm8)|
-|Jul 2021|Extending kotlinx.serialization functionality with Arrow Meta       | Kotland          | EN     ||
+|Dec 2018|"Fun" as in "funeral": full-stack development using Kotlin/JS 	|	KUG SPb          | RU     |N/A  |
+|Jan 2020|"Fun" as in "funeral": full-stack development using Kotlin/JS	  |	Berlin	         | EN     |N/A  |
+|Feb 2021|Hands-on Arrow    	                                            |	Nuremberg/Online | EN     |[YT](https://youtu.be/tkl9EaUMfm8)|
+|Jun 2021|Functional programming with Arrow                               | jLove            | EN     |TBA  |
+|Jul 2021|Extending kotlinx.serialization functionality with Arrow Meta   | Kotland          | EN     |TBA  |
+
 #### Posts
 
 My tech blog: https://paranoidmonoid.github.io/articles/
