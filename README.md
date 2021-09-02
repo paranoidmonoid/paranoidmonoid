@@ -3,7 +3,7 @@
 My name is Karin-Aleksandra Monoid.
 I'm a Senior Software Engineer with background in various programming languages and currently I'm specializing in Kotlin and advocating for functional programming (the good parts!). Also I probably tried your favorite backend language on frontend (Scala.js and Kotlin/JS).
 
-Goodle Developer Expert in Kotlin 🚀
+Google Developer Expert in Kotlin 🚀
 
 ### My Activities
 
