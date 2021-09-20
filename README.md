@@ -12,7 +12,8 @@ Google Developer Expert in Kotlin 🚀
 |  Date  |                        Title                                                         |Event/Organization|Language|Link |
 |--------|--------------------------------------------------------------------------------------|------------------|--------|-----|
 |Dec 2021|Extending kotlinx.serialization functionality with Arrow Meta (livecoding edition)    | KotlinKODERS     | EN     |TBA  |
-|Sep 2021|Extending kotlinx.serialization functionality with Arrow Meta (livecoding edition)    | Chicago Kotlin   | EN     |TBA  |
+|Oct 2021|Extending kotlinx.serialization functionality with Arrow Meta (livecoding edition)    | Joker            | RU     |TBA  |
+|Sep 2021|Extending kotlinx.serialization functionality with Arrow Meta (livecoding edition)    | Chicago Kotlin   | EN     |[YT](https://youtu.be/SdT6dS0g3eM)|
 |Jul 2021|Functional programming with Arrow                                                     | Brighton Kotlin  | EN     |[YT](https://www.youtube.com/watch?v=SlxU51AIWAw)|
 |Jul 2021|Extending kotlinx.serialization functionality with Arrow Meta                         | Kotland          | EN     |TBA  |
 |Jun 2021|Functional programming with Arrow                                                     | jLove            | EN     |TBA  |
