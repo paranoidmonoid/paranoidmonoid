@@ -9,17 +9,18 @@ Google Developer Expert in Kotlin 🚀
 
 #### Public Talks
 
-|  Date  |                        Title                                                         |Event/Organization|Language|Link |
-|--------|--------------------------------------------------------------------------------------|------------------|--------|-----|
-|Dec 2021|Extending kotlinx.serialization functionality with Arrow Meta (livecoding edition)    | KotlinKODERS     | EN     |TBA  |
-|Oct 2021|Extending kotlinx.serialization functionality with Arrow Meta (livecoding edition)    | Joker            | RU     |TBA  |
-|Sep 2021|Extending kotlinx.serialization functionality with Arrow Meta (livecoding edition)    | Chicago Kotlin   | EN     |[YT](https://youtu.be/SdT6dS0g3eM)|
-|Jul 2021|Functional programming with Arrow                                                     | Brighton Kotlin  | EN     |[YT](https://www.youtube.com/watch?v=SlxU51AIWAw)|
-|Jul 2021|Extending kotlinx.serialization functionality with Arrow Meta                         | Kotland          | EN     |TBA  |
-|Jun 2021|Functional programming with Arrow                                                     | jLove            | EN     |TBA  |
-|Feb 2021|Hands-on Arrow    	                                                                  |	Nuremberg/Online | EN     |[YT](https://youtu.be/tkl9EaUMfm8)|
-|Jan 2020|"Fun" as in "funeral": full-stack development using Kotlin/JS	                        |	Berlin	         | EN     |N/A  |
-|Dec 2018|"Fun" as in "funeral": full-stack development using Kotlin/JS                       	|	KUG SPb          | RU     |N/A  |
+|  Date  |                        Title                                                         |Event/Organization      |Language|Link |
+|--------|--------------------------------------------------------------------------------------|------------------------|--------|-----|
+|Dec 2021|Extending kotlinx.serialization functionality with Arrow Meta (livecoding edition)    |KotlinKODERS            |EN      |TBA  |
+|Oct 2021|Extending kotlinx.serialization functionality with Arrow Meta (livecoding edition)    |Joker                   |RU      |TBA  |
+|Oct 2021|Introduction to WDA + GDE program [Q&A Session]                                       |Women Developer Academy |EN      |N/A  |
+|Sep 2021|Extending kotlinx.serialization functionality with Arrow Meta (livecoding edition)    |Chicago Kotlin          |EN      |[YT](https://youtu.be/SdT6dS0g3eM)|
+|Jul 2021|Functional programming with Arrow                                                     |Brighton Kotlin         |EN      |[YT](https://www.youtube.com/watch?v=SlxU51AIWAw)|
+|Jul 2021|Extending kotlinx.serialization functionality with Arrow Meta                         |Kotland                 |EN      |TBA  |
+|Jun 2021|Functional programming with Arrow                                                     |jLove                   |EN      |TBA  |
+|Feb 2021|Hands-on Arrow    	                                                                  |GDG Nuremberg           |EN      |[YT](https://youtu.be/tkl9EaUMfm8)|
+|Jan 2020|"Fun" as in "funeral": full-stack development using Kotlin/JS	                        |KUG Berlin	             |EN      |N/A  |
+|Dec 2018|"Fun" as in "funeral": full-stack development using Kotlin/JS                       	|KUG SPb                 |RU      |N/A  |
 
 #### Workshops
 
@@ -36,6 +37,12 @@ My tech blog: https://paranoidmonoid.github.io/articles/
 * [Hands-on Arrow](https://paranoidmonoid.github.io/articles/Kotlin%20and%20friends/Hands-on%20Arrow)
 * [Migrating your tests to Kotlin](https://paranoidmonoid.github.io/articles/Kotlin%20and%20friends/Migrating%20your%20tests%20to%20Kotlin)
 * [Arrow Meta and solving the issues of Kotlin serialization library by writing a compiler plugin](https://paranoidmonoid.github.io/articles/Kotlin%20and%20friends/Naming%20strategy%20plugin)
+
+#### Other
+
+Conference program committee member: KotlinKODERS(2021)
+
+Mentor: [Women Developer Academy Europe](https://events.withgoogle.com/women-developer-academy-europe/speakers--mentors/#content)
 
 ### Links
 
