@@ -11,7 +11,7 @@ Google Developer Expert in Kotlin 🚀
 
 |  Date  |                        Title                                                         |Event/Organization      |Language|Link |
 |--------|--------------------------------------------------------------------------------------|------------------------|--------|-----|
-|Dec 2021|Extending kotlinx.serialization functionality with Arrow Meta (livecoding edition)    |KotlinKODERS            |EN      |TBA  |
+|Dec 2021|Extending kotlinx.serialization functionality with Arrow Meta (livecoding edition)    |DevFest Russia          |RU      |TBA  |
 |Oct 2021|Extending kotlinx.serialization functionality with Arrow Meta (livecoding edition)    |Joker                   |RU      |TBA  |
 |Oct 2021|Introduction to WDA + GDE program [Q&A Session]                                       |Women Developer Academy |EN      |N/A  |
 |Sep 2021|Extending kotlinx.serialization functionality with Arrow Meta (livecoding edition)    |Chicago Kotlin          |EN      |[YT](https://youtu.be/SdT6dS0g3eM)|
@@ -26,7 +26,6 @@ Google Developer Expert in Kotlin 🚀
 
 |  Date  |                        Title                 |Event/Organization|Language|Link |
 |--------|----------------------------------------------|------------------|--------|-----|
-|Dec 2021|Efficient Asyncronous Kotlin with Coroutines  | KotlinKODERS     | EN     | TBA |
 |Jul 2021|Introduction to development in Kotlin (pilot) | WTM Berlin       | EN     |[Meetup](https://www.meetup.com/Women-Techmakers-Berlin/events/279251255/)|
 
 #### Posts
