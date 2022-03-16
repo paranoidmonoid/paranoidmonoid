@@ -37,6 +37,12 @@ My tech blog: https://paranoidmonoid.github.io/articles/
 * [Migrating your tests to Kotlin](https://paranoidmonoid.github.io/articles/Kotlin%20and%20friends/Migrating%20your%20tests%20to%20Kotlin)
 * [Arrow Meta and solving the issues of Kotlin serialization library by writing a compiler plugin](https://paranoidmonoid.github.io/articles/Kotlin%20and%20friends/Naming%20strategy%20plugin)
 
+#### Videos/Audios
+|  Date  |                        Title                 |Event/Organization|Language|Link |
+|--------|----------------------------------------------|------------------|--------|-----|
+|Dec 2021|Advent of Code 2021: разбор задачи №9, Go     |Контур            | RU     |https://www.youtube.com/watch?v=SI4iFdw1W3g|
+
+
 #### Other
 
 Conference program committee member: KotlinKODERS(2021)
