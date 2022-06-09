@@ -12,6 +12,8 @@ Google Developer Expert in Kotlin 🚀
 |  Date  |                        Title                                                         |Event/Organization      |Language|Link |
 |--------|--------------------------------------------------------------------------------------|------------------------|--------|-----|
 |Aug 2022|Treasure.map(): Functional Programming in JVM-based languages                         |JBCN Conf               |EN      |TBA  |
+|Jul 2022|Treasure.map(): Functional Programming in Kotlin                                      |Droidcon Berlin         |EN      |TBA  |
+|Jun 2022|Functional Kotlin with Arrow                                                          |Func Prog Sweden        |EN      |TBA  |    
 |Jun 2022|Treasure.map(): Functional Programming in JVM-based languages                         |GDSC KPI                |EN      |TBA  |
 |May 2022|Extending kotlinx.serialization functionality with Arrow Meta (short)                 |Kotlin Dev Day          |EN      |TBA  |
 |Dec 2021|Extending kotlinx.serialization functionality with Arrow Meta (livecoding edition)    |DevFest Russia          |RU      |[YT](https://www.youtube.com/watch?v=kHPxs-I7o9g)  |
