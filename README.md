@@ -11,7 +11,7 @@ Google Developer Expert in Kotlin 🚀
 
 |  Date  |                        Title                                                         |Event/Organization      |Language|Link |
 |--------|--------------------------------------------------------------------------------------|------------------------|--------|-----|
-|Aug 2022|Treasure.map(): Functional Programming in JVM-based languages                         |JBCN Conf               |EN      |TBA  |
+|Aug 2022|Treasure.map(): Functional Programming in JVM-based languages                         |JBCN Conf               |EN      |N/A  |
 |Jul 2022|Treasure.map(): Functional Programming in Kotlin                                      |Droidcon Berlin         |EN      |TBA  |
 |Jun 2022|Functional Kotlin with Arrow                                                          |Func Prog Sweden        |EN      |[YT](https://youtu.be/ol5h08ynTuE)|    
 |Jun 2022|Treasure.map(): Functional Programming in JVM-based languages                         |GDSC KPI                |EN      |[YT](https://youtu.be/eHSepXJPKZ0)|
