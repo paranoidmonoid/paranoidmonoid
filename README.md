@@ -11,6 +11,7 @@ Google Developer Expert in Kotlin 🚀
 
 |  Date  |                        Title                                                         |Event/Organization      |Language|Link |
 |--------|--------------------------------------------------------------------------------------|------------------------|--------|-----|
+|Dec 2022|Treasure.map(): Functional Programming in JVM-based languages                         |Java On                 |EN      |TBA  |
 |Oct 2022|Treasure.map(): Functional Programming in Kotlin                                      |Droidcon Italy          |EN      |TBA  |  
 |Aug 2022|Treasure.map(): Functional Programming in JVM-based languages                         |JBCN Conf               |EN      |N/A  |
 |Jul 2022|Treasure.map(): Functional Programming in Kotlin                                      |Droidcon Berlin         |EN      |[Link](https://www.droidcon.com/2022/08/01/treasure-map-functional-programming-in-kotlin/)|
