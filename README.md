@@ -16,10 +16,10 @@ Google Developer Expert in Kotlin 🚀
 |Aug 2022|Treasure.map(): Functional Programming in JVM-based languages                         |JBCN Conf               |EN      |N/A  |
 |Jul 2022|Treasure.map(): Functional Programming in Kotlin                                      |Droidcon Berlin         |EN      |[Link](https://www.droidcon.com/2022/08/01/treasure-map-functional-programming-in-kotlin/)|
 |Jun 2022|Functional Kotlin with Arrow                                                          |Func Prog Sweden        |EN      |[YT](https://youtu.be/ol5h08ynTuE)|    
-|Jun 2022|Treasure.map(): Functional Programming in JVM-based languages                         |GDSC KPI                |EN      |[YT](https://youtu.be/eHSepXJPKZ0)|
-|May 2022|Extending kotlinx.serialization functionality with Arrow Meta (short)                 |Kotlin Dev Day          |EN      |TBA  |
-|Dec 2021|Extending kotlinx.serialization functionality with Arrow Meta (livecoding edition)    |DevFest Russia          |RU      |[YT](https://www.youtube.com/watch?v=kHPxs-I7o9g)  |
-|Oct 2021|Extending kotlinx.serialization functionality with Arrow Meta (livecoding edition)    |Joker                   |RU      |[YT](https://youtu.be/uDJ2mwnlYaE)  |
+|Jun 2022|Treasure.map(): Functional Programming in JVM-based languages                         |GDSC KPI                |EN      |N/A  |
+|May 2022|Extending kotlinx.serialization functionality with Arrow Meta (short)                 |Kotlin Dev Day          |EN      |[YT](https://youtu.be/eHSepXJPKZ0)|
+|Dec 2021|Extending kotlinx.serialization functionality with Arrow Meta (livecoding edition)    |DevFest Russia          |RU      |[YT](https://www.youtube.com/watch?v=kHPxs-I7o9g)|
+|Oct 2021|Extending kotlinx.serialization functionality with Arrow Meta (livecoding edition)    |Joker                   |RU      |[YT](https://youtu.be/uDJ2mwnlYaE)|
 |Oct 2021|Introduction to WDA + GDE program [Q&A Session]                                       |Women Developer Academy |EN      |N/A  |
 |Sep 2021|Extending kotlinx.serialization functionality with Arrow Meta (livecoding edition)    |Chicago Kotlin          |EN      |[YT](https://youtu.be/SdT6dS0g3eM)|
 |Jul 2021|Functional programming with Arrow                                                     |Brighton Kotlin         |EN      |[YT](https://www.youtube.com/watch?v=SlxU51AIWAw)|
