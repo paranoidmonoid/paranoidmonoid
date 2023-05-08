@@ -9,25 +9,26 @@ Google Developer Expert in Kotlin 🚀
 
 #### Public Talks
 
-|  Date  |                        Title                                                         |Event/Organization      |Language|Link |
-|--------|--------------------------------------------------------------------------------------|------------------------|--------|-----|
-|Dec 2022|Treasure.map(): Functional Programming in JVM-based languages                         |Java On                 |EN      |TBA  |
-|Oct 2022|Treasure.map(): Functional Programming in Kotlin                                      |Droidcon Italy          |EN      |TBA  |  
-|Aug 2022|Treasure.map(): Functional Programming in JVM-based languages                         |JBCN Conf               |EN      |N/A  |
-|Jul 2022|Treasure.map(): Functional Programming in Kotlin                                      |Droidcon Berlin         |EN      |[Link](https://www.droidcon.com/2022/08/01/treasure-map-functional-programming-in-kotlin/)|
-|Jun 2022|Functional Kotlin with Arrow                                                          |Func Prog Sweden        |EN      |[YT](https://youtu.be/ol5h08ynTuE)|    
-|Jun 2022|Treasure.map(): Functional Programming in JVM-based languages                         |GDSC KPI                |EN      |N/A  |
-|May 2022|Extending kotlinx.serialization functionality with Arrow Meta (short)                 |Kotlin Dev Day          |EN      |[YT](https://youtu.be/eHSepXJPKZ0)|
-|Dec 2021|Extending kotlinx.serialization functionality with Arrow Meta (livecoding edition)    |DevFest Russia          |RU      |[YT](https://www.youtube.com/watch?v=kHPxs-I7o9g)|
-|Oct 2021|Extending kotlinx.serialization functionality with Arrow Meta (livecoding edition)    |Joker                   |RU      |[YT](https://youtu.be/uDJ2mwnlYaE)|
-|Oct 2021|Introduction to WDA + GDE program [Q&A Session]                                       |Women Developer Academy |EN      |N/A  |
-|Sep 2021|Extending kotlinx.serialization functionality with Arrow Meta (livecoding edition)    |Chicago Kotlin          |EN      |[YT](https://youtu.be/SdT6dS0g3eM)|
-|Jul 2021|Functional programming with Arrow                                                     |Brighton Kotlin         |EN      |[YT](https://www.youtube.com/watch?v=SlxU51AIWAw)|
-|Jul 2021|Extending kotlinx.serialization functionality with Arrow Meta                         |Kotland                 |EN      |TBA  |
-|Jun 2021|Functional programming with Arrow                                                     |jLove                   |EN      |TBA  |
-|Feb 2021|Hands-on Arrow    	                                                                  |GDG Nuremberg           |EN      |[YT](https://youtu.be/tkl9EaUMfm8)|
-|Jan 2020|"Fun" as in "funeral": full-stack development using Kotlin/JS	                        |KUG Berlin	             |EN      |N/A  |
-|Dec 2018|"Fun" as in "funeral": full-stack development using Kotlin/JS                       	|KUG SPb                 |RU      |N/A  |
+|  Date  |                        Title                                                         |Event/Organization             |Language|Link |
+|--------|--------------------------------------------------------------------------------------|-------------------------------|--------|-----|
+|May 2023|Configuration Management in Kotlin: The Basics                                        |KotlinConf 2023 Global in Kyoto|EN      |TBA  |
+|Dec 2022|Treasure.map(): Functional Programming in JVM-based languages                         |Java On                        |EN      |TBA  |
+|Oct 2022|Treasure.map(): Functional Programming in Kotlin                                      |Droidcon Italy                 |EN      |TBA  |  
+|Aug 2022|Treasure.map(): Functional Programming in JVM-based languages                         |JBCN Conf                      |EN      |N/A  |
+|Jul 2022|Treasure.map(): Functional Programming in Kotlin                                      |Droidcon Berlin                |EN      |[Link](https://www.droidcon.com/2022/08/01/treasure-map-functional-programming-in-kotlin/)|
+|Jun 2022|Functional Kotlin with Arrow                                                          |Func Prog Sweden               |EN      |[YT](https://youtu.be/ol5h08ynTuE)|    
+|Jun 2022|Treasure.map(): Functional Programming in JVM-based languages                         |GDSC KPI                       |EN      |N/A  |
+|May 2022|Extending kotlinx.serialization functionality with Arrow Meta (short)                 |Kotlin Dev Day                 |EN      |[YT](https://youtu.be/eHSepXJPKZ0)|
+|Dec 2021|Extending kotlinx.serialization functionality with Arrow Meta (livecoding edition)    |DevFest Russia                 |RU      |[YT](https://www.youtube.com/watch?v=kHPxs-I7o9g)|
+|Oct 2021|Extending kotlinx.serialization functionality with Arrow Meta (livecoding edition)    |Joker                          |RU      |[YT](https://youtu.be/uDJ2mwnlYaE)|
+|Oct 2021|Introduction to WDA + GDE program [Q&A Session]                                       |Women Developer Academy        |EN      |N/A  |
+|Sep 2021|Extending kotlinx.serialization functionality with Arrow Meta (livecoding edition)    |Chicago Kotlin                 |EN      |[YT](https://youtu.be/SdT6dS0g3eM)|
+|Jul 2021|Functional programming with Arrow                                                     |Brighton Kotlin                |EN      |[YT](https://www.youtube.com/watch?v=SlxU51AIWAw)|
+|Jul 2021|Extending kotlinx.serialization functionality with Arrow Meta                         |Kotland                        |EN      |TBA  |
+|Jun 2021|Functional programming with Arrow                                                     |jLove                          |EN      |TBA  |
+|Feb 2021|Hands-on Arrow    	                                                                  |GDG Nuremberg                  |EN      |[YT](https://youtu.be/tkl9EaUMfm8)|
+|Jan 2020|"Fun" as in "funeral": full-stack development using Kotlin/JS	                        |KUG Berlin	                    |EN      |N/A  |
+|Dec 2018|"Fun" as in "funeral": full-stack development using Kotlin/JS                       	|KUG SPb                        |RU      |N/A  |
 
 #### Workshops
 
@@ -59,8 +60,7 @@ Mentor: [Women Developer Academy Europe](https://events.withgoogle.com/women-dev
 ### Links
 
 #### Twitter
-* RU (various content): [@vanillacoder](https://twitter.com/vanillacoder/)
-* EN (mostly tech): [@paranoidmonoid](https://twitter.com/paranoidmonoid/)
+[@paranoidmonoid](https://twitter.com/paranoidmonoid/)
 
 #### Slides
-* [Speakerdeck](https://speakerdeck.com/paranoidmonoid)
+[Speakerdeck](https://speakerdeck.com/paranoidmonoid)
