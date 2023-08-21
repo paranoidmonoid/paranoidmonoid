@@ -11,6 +11,7 @@ Google Developer Expert in Kotlin 🚀
 
 |  Date  |                        Title                                                         |Event/Organization             |Language|Link |
 |--------|--------------------------------------------------------------------------------------|-------------------------------|--------|-----|
+|Aug 2023|Configuration Management in Kotlin: The Basics                                        |MDL Meetup                     |EN      |TBA  |
 |May 2023|Configuration Management in Kotlin: The Basics                                        |KotlinConf 2023 Global in Kyoto|EN      |TBA  |
 |Dec 2022|Treasure.map(): Functional Programming in JVM-based languages                         |Java On                        |EN      |TBA  |
 |Oct 2022|Treasure.map(): Functional Programming in Kotlin                                      |Droidcon Italy                 |EN      |TBA  |  
