@@ -11,6 +11,7 @@ Google Developer Expert in Kotlin 🚀
 
 |  Date  |                        Title                                                         |Event/Organization             |Language|Record|
 |--------|--------------------------------------------------------------------------------------|-------------------------------|--------|------|
+|Sep 2024|Arrow – a journey to functional programming in Kotlin                                 |KKON 2024                      |EN      |TBA   |
 |Oct 2023|Configuration Management in Kotlin: The Basics                                        |KKON 2023                      |EN      |TBA   |
 |Aug 2023|Configuration Management in Kotlin: The Basics                                        |MDL Meetup                     |EN      |TBA   |
 |May 2023|Configuration Management in Kotlin: The Basics                                        |KotlinConf 2023 Global in Kyoto|EN      |N/A   |
